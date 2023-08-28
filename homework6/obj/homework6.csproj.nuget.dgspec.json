@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Александра\\Desktop\\seminar6\\homework6\\homework6.csproj": {}
+    "c:\\Users\\Александра\\Desktop\\seminar6\\homework6\\homework6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Александра\\Desktop\\seminar6\\homework6\\homework6.csproj": {
+    "c:\\Users\\Александра\\Desktop\\seminar6\\homework6\\homework6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Александра\\Desktop\\seminar6\\homework6\\homework6.csproj",
+        "projectUniqueName": "c:\\Users\\Александра\\Desktop\\seminar6\\homework6\\homework6.csproj",
         "projectName": "homework6",
-        "projectPath": "C:\\Users\\Александра\\Desktop\\seminar6\\homework6\\homework6.csproj",
+        "projectPath": "c:\\Users\\Александра\\Desktop\\seminar6\\homework6\\homework6.csproj",
         "packagesPath": "C:\\Users\\Александра\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Александра\\Desktop\\seminar6\\homework6\\obj\\",
+        "outputPath": "c:\\Users\\Александра\\Desktop\\seminar6\\homework6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Александра\\AppData\\Roaming\\NuGet\\NuGet.Config"
